@@ -58,7 +58,7 @@ footer {
 
 .link-boxes,.media-icons {
   display: flex;
-  gap:5px;
+  gap:10px;
   justify-content: space-between;
 }
 
@@ -68,7 +68,7 @@ footer {
   gap: 5px;
 }
 
-a {
+.col a {
   text-decoration: 1px underline white;
   text-underline-offset: 2px;
 }
