@@ -56,8 +56,9 @@ footer {
   padding: 2vh 3vw;
 }
 
-.link-boxes {
+.link-boxes,.media-icons {
   display: flex;
+  gap:5px;
   justify-content: space-between;
 }
 
